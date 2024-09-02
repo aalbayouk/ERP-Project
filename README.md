@@ -14,7 +14,7 @@ sources. By comparing emotions linked to various sources and post types, we
 hope to provide insights into how digital media influences public perception and dialogue
 around the Palestine-Israel conflict.
 
-The link to the original Reddit Dataset Used: https://www.kaggle.com/datasets/asaniczka/reddit-on-israel-palestine-daily-updated
+The link to the original Reddit Dataset used in the study: https://www.kaggle.com/datasets/asaniczka/reddit-on-israel-palestine-daily-updated
 
-The link to the GoEmotion Dataset: https://huggingface.co/datasets/google-research-datasets/go_emotions
+The link to the GoEmotion Dataset used to train RoBERTa: https://huggingface.co/datasets/google-research-datasets/go_emotions
 
