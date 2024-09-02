@@ -14,15 +14,7 @@ sources. By comparing emotions linked to various sources and post types, we
 hope to provide insights into how digital media influences public perception and dialogue
 around the Palestine-Israel conflict.
 
-The link to the original Reddit Dataset: https://www.kaggle.com/datasets/asaniczka/reddit-on-israel-palestine-daily-updated
-@misc{asaniczka_2024,
-	title={Daily Public Opinion on Israel-Palestine War},
-	url={https://www.kaggle.com/dsv/9301849},
-	DOI={10.34740/KAGGLE/DSV/9301849},
-	publisher={Kaggle},
-	author={Asaniczka},
-	year={2024}
-}
+The link to the original Reddit Dataset Used: https://www.kaggle.com/datasets/asaniczka/reddit-on-israel-palestine-daily-updated
 
 The link to the GoEmotion Dataset: https://huggingface.co/datasets/google-research-datasets/go_emotions
 
